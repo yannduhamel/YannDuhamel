@@ -13,7 +13,7 @@
 
 🌱 I'm a Javascript and React learner who loves exploring new technologies and creating cool stuff.
 
-💼 Currently working on [my second training project](https://github.com/WildCodeSchool-2024-02/JS-Remote-JavaScrypte-P2-LesLapinsAgiles) at [Wild Code School](https://www.wildcodeschool.com/fr-fr/).
+💼 Currently working on [my third group training project](https://github.com/WildCodeSchool-2024-02/WildCodeSchool-2024-02-JS-Remote-JavaScrypte-P3-FoodTastics) at [Wild Code School](https://www.wildcodeschool.com/fr-fr/).
 
 🚀 I'm passionate about creative user interfaces and graphic arts in general , and I'm always eager to learn and share knowledge.
 
